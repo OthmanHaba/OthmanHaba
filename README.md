@@ -1,6 +1,7 @@
 ### Hi I'm Othman Habah
 
 A software engineer ( i hate programming ).
+Why I'm still programming easy because it gets me MONEY 💵
 
 ## 🔭 Tech stack
 
