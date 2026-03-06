@@ -1,6 +1,7 @@
 ### Hi I'm Othman Habah
 
-A software engineer X cloud Engineer 
+#A software X infra Engineer
+
 Me want MONEY
 
 ## 🔭 Tech stack
