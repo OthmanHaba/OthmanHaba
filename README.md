@@ -6,7 +6,7 @@ Me want MONEY
 
 ## 🔭 Tech stack
 
-![Tech stack](https://skillicons.dev/icons?i=laravel,php,vue,nuxt,ts,tailwind,go)
+![Tech stack](https://skillicons.dev/icons?i=php,ts,go)
 
 ### 🛠 Tools I use
 
