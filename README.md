@@ -1,6 +1,6 @@
 ### Hi I'm Othman Habah
 
-# A software X infra Engineer
+# A backend X infra Engineer
 
 Me want MONEY
 
