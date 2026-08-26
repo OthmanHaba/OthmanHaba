@@ -31,24 +31,6 @@ If code breaks → still give money (now it's "maintenance")
 
 ---
 
-## ⚡ Daily Workflow
-```bash
-git pull
-# something breaks
-
-google error message
-# stackoverflow from 2012 saves the day
-
-fix bug
-# create 3 new bugs
-
-git commit -m "fix: final fix (real)"
-git push
-# production goes down
-```
-
----
-
 ## 🔥 Contributions
 ![GitHub Streak](https://streak-stats.demolab.com/?user=othmanhaba&theme=tokyonight)
 
