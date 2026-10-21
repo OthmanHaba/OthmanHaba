@@ -6,7 +6,7 @@
 ##  Currently building
 
 - [falak.sh](https://falak.sh) — open-source PaaS
-- [coolicons.falak.sh](https://coolicons.falak.sh) — icon library
+- [coolicons.falak.sh](https://coolicon.falak.sh) — icon library
 
 
 ##  What I'm currently suffering with
